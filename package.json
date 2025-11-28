@@ -1,0 +1,13 @@
+{
+  "name": "karim-project",
+  "version": "1.0.0",
+  "description": "Учебный проект по Git и GitHub",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build completed'"
+  },
+  "keywords": ["html", "css", "javascript", "git"],
+  "author": "Karim",
+  "license": "MIT"
+}
